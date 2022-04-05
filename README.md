@@ -4,4 +4,4 @@ The following is a brief description of each tutorial, along with the open-sourc
 
 | Tutorial | Description                           |
 |--------|-------------------------------------------------------------------------------------|
-| Lab.00 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/bio141c/blob/master/tutorials/BIO141C_ProtEnz.ipynb) | Demo Proteinas y Enzimas                           |
+| Lab.00 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/bio141c/blob/main/BIO141C_ProtEnz.ipynb) | Demo Proteinas y Enzimas                           |
